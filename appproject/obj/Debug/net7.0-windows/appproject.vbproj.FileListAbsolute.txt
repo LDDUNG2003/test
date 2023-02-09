@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\appproject\appproject\bin\Debug\net7.0-windows\appproject.exe
+C:\Users\ADMIN\source\repos\appproject\appproject\bin\Debug\net7.0-windows\appproject.deps.json
+C:\Users\ADMIN\source\repos\appproject\appproject\bin\Debug\net7.0-windows\appproject.runtimeconfig.json
+C:\Users\ADMIN\source\repos\appproject\appproject\bin\Debug\net7.0-windows\appproject.dll
+C:\Users\ADMIN\source\repos\appproject\appproject\bin\Debug\net7.0-windows\appproject.pdb
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\appproject.vbproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\appproject.Form1.resources
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\appproject.vbproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\appproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\appproject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\appproject.AssemblyInfo.vb
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\appproject.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\appproject.dll
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\refint\appproject.dll
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\appproject.pdb
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\appproject.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\appproject\appproject\obj\Debug\net7.0-windows\ref\appproject.dll
